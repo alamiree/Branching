@@ -8,4 +8,4 @@ This is an example of creating a branch
   - to insert the created branch type: git checkout "branch name"
   - to delete a branch type: git branch -d "branch name"
   - to rename a branch type: git branch -m "new branch name".
-  - 
+  - to merge the created branch with the main branch type: git merge "branch name"
